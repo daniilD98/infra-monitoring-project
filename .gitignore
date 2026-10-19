@@ -1,0 +1,20 @@
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*~
+
+# Артефакты сборки
+target/
+build/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
